@@ -1,0 +1,13 @@
+.menu {
+  background-color: teal;
+  display: flex;
+  justify-content: space-between;
+}
+
+.games {
+  background-color: antiquewhite;
+display:flex;
+justify-content: space-evenly;
+flex-wrap:wrap; 
+
+}
